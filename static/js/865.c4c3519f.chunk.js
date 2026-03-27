@@ -1,0 +1,1 @@
+(globalThis.webpackChunkpancake_frontend=globalThis.webpackChunkpancake_frontend||[]).push([[865],{66543(){},20919(){},58725(){},91833(){}}]);
